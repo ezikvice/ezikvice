@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Dmitrii. 
-- 🏠 I currently live in the vicinity of Haifa 
+- 🏠 I’m currently living in the vicinity of Haifa 
 - 💻 And looking for a job in Israel.
 - 🌱 I’m currently learning Java and Hebrew (and a little bit Python for my pet project) 
